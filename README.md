@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I am currently a senior at BYU studying statistics. I decided to study statistics because understanding statistics is understanding data. Data can tell a great number of stories, and I ensure that the correct stories are being told in ways that anyone can understand them. People say that we live in the information age, but we really live in the data age. I love leveraging that data to create information that can help businesses and individuals make smart decisions.
+- 🔭 Experienced IT professional with a passion for engaging people, data, and technology to provide efficient solutions to business problems.
 - 🌱 This page contains different school and personal projects that I'm working in related to statistics and data science.
 - 📫 How to reach me: https://www.linkedin.com/in/tdmarkham/.
 - 😄 Pronouns: he/him
